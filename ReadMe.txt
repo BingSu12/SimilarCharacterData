@@ -1,3 +1,14 @@
+Please cite the following papers if you use the data:
+
+1. B. Su, X. Ding, C. Liu, H. Wang, and Y. Wu, ¡°Discriminative transformation for multi-dimensional temporal sequences,¡± IEEE Trans. Image Processing, vol. 26, pp. 3579¨C3593, 2017.
+
+2. B. Su, X. Ding, H.Wang, and Y.Wu, ¡°Discriminative dimensionality reduction for multi-dimensional sequences,¡± IEEE Trans. Pattern Anal. Mach. Intell., 2017.
+
+
+
+-----------------------------------------------------------------------
+
+
 "similarCharacterSet.mat" contains two .mat files: "samplenum", and "characterset".
 
 
